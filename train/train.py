@@ -39,14 +39,13 @@ parser.add_argument("--rdrop_coef", default=0.0, type=float, help="The coefficie
     "KL-Divergence loss in R-Drop paper, for more detail please refer to https://arxiv.org/abs/2106.14448), if rdrop_coef > 0 then R-Drop works")
 
 args = parser.parse_args()
-# yapf: enable
 
 import logging
 # Logging configuration
-logging.basicConfig(level=logging.DEBUG,  # Log level for console output
-                    filename='work/log/train-epoch1.log',
-                    filemode='a',  # Mode, 'w' for write mode, 'a' for append mode
-                    format='%(asctime)s - %(pathname)s[line:%(lineno)d] - %(levelname)s: %(message)s'  # Log format
+logging.basicConfig(level=logging.DEBUG, 
+                    filename='work/result/train-epoch1.log',
+                    filemode='a',  
+                    format='%(asctime)s - %(pathname)s[line:%(lineno)d] - %(levelname)s: %(message)s'  
                     )
 
 logging.info('------------------------------Training Start.--------------------------------')
