@@ -12,7 +12,7 @@ Github Repo Root
 
 ```
 ## Introduction
-This is the **demo implementation (which only includes the core code but not an excutable version)** for the technical report "Qianyan Dataset: Technical Report on the Question Matching Robustness Competition", which ranked 6th (until 2024.10.18) in the "Baidu Qianyan: Question Matching Robustness Competition".
+This is the **demo implementation (which only includes the core code but not an excutable version)** for the technical report "Qianyan Dataset: Technical Report on the Question Matching Robustness Competition", which ranked 6th (until 2024.10.18) in the "Baidu Qianyan: Question Matching Robustness Competition". This is also the assignment 1 of *Machine Learning Practice (2024 fall)*.
 ## Performance
 Untill 2024.10.18 0:00, ranked 6th in the leader board.
 | Rank | score  | OPPO   | DuQM_pos | DuQM_named_entity | DuQM_synonym | DuQM_antonym | DuQM_negation | DuQM_temporal | DuQM_symmetry | DuQM_asymmetry | DuQM_neg_asymmetry | DuQM_voice | DuQM_misspelling | DuQM_discourse_particle(simple) | DuQM_discourse_particle(complex) |
@@ -30,4 +30,11 @@ Untill 2024.10.18 0:00, ranked 6th in the leader board.
 [2021 CCF BDCI Thousand Words - Problem Matching Robustness Review - 12th Place Scheme](https://aistudio.baidu.com/projectdetail/2384565?searchKeyword=%E5%8D%83%E8%A8%80%E9%97%AE%E9%A2%98%E5%8C%B9%E9%85%8D&searchTab=ALL)  
 [2021 CCF BDCI Thousand Words - Problem Matching Robustness Review - 5th Place Scheme](https://aistudio.baidu.com/projectdetail/2487202?searchKeyword=%E5%8D%83%E8%A8%80%E9%97%AE%E9%A2%98%E5%8C%B9%E9%85%8D&searchTab=ALL)  
 [2021 CCF BDCI Thousand Words - Problem Matching Robustness Review - 1st Place Scheme](https://discussion.datafountain.cn/articles/detail/3813)
+
+## Acknowledgements
+We would like to thank the organizers of the Qianyan Question Matching Robustness Competition for providing the dataset and the opportunity to participate in this competition. Also, authors of the Blogs in the Reference Part helped me so much. Thanks a lot!
+
+## License
+This project is licensed under the MIT License. 
+
 
