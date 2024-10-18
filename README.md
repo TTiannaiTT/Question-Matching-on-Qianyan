@@ -13,6 +13,8 @@ Github Repo Root
 ```
 ## Introduction
 This is the **demo implementation (which only includes the core code but not an excutable version)** for the technical report "Qianyan Dataset: Technical Report on the Question Matching Robustness Competition", which ranked 6th (until 2024.10.18) in the "Baidu Qianyan: Question Matching Robustness Competition". This is also the assignment 1 of *Machine Learning Practice (2024 fall)*.
+<img width="694" alt="{D58410CA-FCF3-4C13-94F6-760F9490A3AD}" src="https://github.com/user-attachments/assets/82e410c4-06a3-4c04-87ed-14318705abbd">
+
 ## Performance
 Untill 2024.10.18 0:00, ranked 6th in the leader board.
 | Rank | score  | OPPO   | DuQM_pos | DuQM_named_entity | DuQM_synonym | DuQM_antonym | DuQM_negation | DuQM_temporal | DuQM_symmetry | DuQM_asymmetry | DuQM_neg_asymmetry | DuQM_voice | DuQM_misspelling | DuQM_discourse_particle(simple) | DuQM_discourse_particle(complex) |
@@ -32,7 +34,7 @@ Untill 2024.10.18 0:00, ranked 6th in the leader board.
 [2021 CCF BDCI Thousand Words - Problem Matching Robustness Review - 1st Place Scheme](https://discussion.datafountain.cn/articles/detail/3813)
 
 ## Acknowledgements
-We would like to thank the organizers of the Qianyan Question Matching Robustness Competition for providing the dataset and the opportunity to participate in this competition. Also, authors of the Blogs in the Reference Part helped me so much. Thanks a lot!
+We would like to thank the organizers of the Qianyan Question Matching Robustness Competition for providing the dataset and the opportunity to participate in this competition. Also, authors of the blogs in the *Reference* helped me so much. Thanks a lot!
 
 ## License
 This project is licensed under the MIT License. 
