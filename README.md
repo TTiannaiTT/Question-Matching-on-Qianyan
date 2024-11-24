@@ -17,6 +17,7 @@ Github Repo Root
 ```
 ## Introduction
 This is the **demo implementation (which only includes the core code but not an excutable version, since the competition hasn't ended)** for the technical report "Qianyan Dataset: Technical Report on the Question Matching Robustness Competition", which ranked 6th (until 2024.10.18) in the "Baidu Qianyan: Question Matching Robustness Competition". This is also the assignment 1 of *Machine Learning Practice (2024 fall)*.
+
 <img width="694" alt="{D58410CA-FCF3-4C13-94F6-760F9490A3AD}" src="https://github.com/user-attachments/assets/82e410c4-06a3-4c04-87ed-14318705abbd">
 
 ## Performance
@@ -38,7 +39,7 @@ Untill 2024.10.18 0:00, ranked 6th in the leader board.
 [2021 CCF BDCI Thousand Words - Problem Matching Robustness Review - 1st Place Scheme](https://discussion.datafountain.cn/articles/detail/3813)
 
 ## Acknowledgements
-We would like to thank the organizers of the Qianyan Question Matching Robustness Competition for providing the dataset and the opportunity to participate in this competition. Also, authors of the blogs in the *Reference* helped me so much. Thanks a lot!
+We would like to thank the organizers of the Qianyan Question Matching Robustness Competition for providing the dataset and the opportunity to participate in this competition. Also, authors of the blogs in the *Reference* helped me so much (*part of the code in this repo is developed based on their code or idea*). Thanks a lot!
 
 ## License
 This project is licensed under the MIT License. 
